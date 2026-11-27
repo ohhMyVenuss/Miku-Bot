@@ -1,0 +1,4 @@
+# Phase 1: UI & Live2D Rendering
+PyQt6>=6.6.0
+live2d-py>=0.5.0
+python-dotenv>=1.0.0
